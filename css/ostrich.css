@@ -12,7 +12,7 @@ html {
 
   #ostrich {
     position: absolute;
-    bottom: 250px;
+    top:  250px;
     right: 0;
   }
 }
